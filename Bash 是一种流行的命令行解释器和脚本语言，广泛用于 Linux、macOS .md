@@ -110,8 +110,7 @@ chsh -s /bin/zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
-总结：Zsh 是 Bash 的强大替代品，尤其适合喜欢定制终端体验的用户。
-
+总结：Zsh 是 Bash 的强大替代品
 
 
 ### 其他shell

@@ -334,3 +334,7 @@ ls -atl
 drwxr-xr-x  2 user group  4096 Nov 16 09:15 subdir
 -rw-r--r--  1 user group  2048 Nov 15 14:05 regular_file
 ```
+
+
+
+
